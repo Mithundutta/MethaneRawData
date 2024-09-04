@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220630</CreaDate><CreaTime>11382800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20220630" Time="113828">RasterCalculator Con("mask.tif" == 0,1,0) C:\Users\jacob\Documents\MSG\CPE\MethaneProject\mask2.tif</Process></lineage></DataProperties></Esri></metadata>
